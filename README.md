@@ -82,7 +82,7 @@ Output:
 - Delete the add button in Header.js
 
 Output:
-![alt text](image/task5.png)
+![alt text](image/Task5.png)
 
 ### Activity 6: Adding Icons to the Task Component
 
