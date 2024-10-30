@@ -1,12 +1,7 @@
 # 5610_labquiz8
 React 1
 
-## Lab 8 Activities
-
-Activity 1 to Activity 5 are designed to be interconnected.
-
 ### Installation
-
 Start by installing a React app with the following command:
 
 ```bash
